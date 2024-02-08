@@ -1,39 +1,34 @@
 ### Hi there 👋
 
-<!--
-**iampaulidrobo/iampaulidrobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have passion and persistence for Robotics. My work mostly includes SLAM, path planning, and navigation integrated systems with ROS(Robot operating system).I love to learn about novel tech and its implications.
 
-Here are some ideas to get you started:
+I am currently learning and working on a few pilot projects:
+    Various path planning algorithms to be visualised on rviz.
+    Docker environment creation for the repository.
+    Jenkin integration for CI/CD.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-Hi there, I'm Julia
+I’m looking to collaborate on:
+    Digital media channels for the exposure and promotion on robotics.
+    Publishing papers, articles and ideas.
+    
+    
 
-Portfolio  CodePen  Twitter  Dev.to  Hashnode 
-
-I am a Dev & UX Accessibility Specialist at Atos. I love to learn about new technology, connect with people around the world and help others get into tech as well.
-
-I am Google Developer Expert for Web Development.
-
-I am the founder of Accessibility First, where I share articles, tutorials and more about web accessibility in UX Design, Web Development, Testing and more. I give talks and attend discussions about accessibility and how to get into tech as a selftaught developer.
-
-I'm founder of YurisCodingClub, the most inclusive open source community. The projects are part of Hacktoberfest.
-
-I am a mentor and CoC responder by 💟 at The Collab Lab since 2021.
-
-Achievements
-
-    🏆 Runner Up - MindsDB x Hashnode Hackathon 2023. Check out my article about the project Develop Interview Winning Portfolio Projects With Mindsdb Predictions article for this challenge.
-    🏆 Winner - Hashnode DebuggingFeb Writeathon 2023. Check out my article How Debugging For Accessibility Helped Me Finally Understand useRef for this challenge.
-    🏆 Winner - Hashnode Writeathon 4 articles 4 weeks 2022. Check out my most engaged article How I got my first job as a developer for this challenge.
-    🏆 Runner Up - Clerk x Hashnode Hackathon 2021. Check out my article about the project SOS Animals App for this challenge.
-
+    📫 How to reach me: ...
+    LinkedIn Gmail image link
 
 💼 Languages and Tools
--->
+
+C++
+ROS
+openCV
+⚡ Fun fact: Solving small infinities leads to the path of greater infinities.
+
+Repo brief:
+
+
+
+
+
+
+
+
