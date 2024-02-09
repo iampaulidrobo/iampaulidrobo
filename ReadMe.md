@@ -1,40 +1,64 @@
-### Hi there 👋
+#### Hello 👋
+I am ROS developer and I share my passion and persistance for robotics.I have prior exposure for SLAM, Navigation and Path planning.
+### Ongoing work:
+I am currently working on few pilot projects:
+    1)Nicely put repositories
+    2)Dev container for the repos
+    3)Jenkins for the repos
+    4)Various path planning algorithms
 
-I have passion and persistence for Robotics. My work mostly includes SLAM, path planning, and navigation integrated systems with ROS(Robot operating system).I love to learn about novel tech and its implications.
+### Open colloboration:
+I am looking to colloborate on:
+1)Digital Channel for robotics
+2)Publising research paper,articles and ideas.
 
-I am currently learning and working on a few pilot projects:
-    Various path planning algorithms to be visualised on rviz.
-    Docker environment creation for the repository.
-    Jenkin integration for CI/CD.
+## Technical platforms:
 
-I’m looking to collaborate on:
-    Digital media channels for the exposure and promotion on robotics.
-    Publishing papers, articles and ideas.
-    
+<a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>&nbsp;
 
-    📫 How to reach me: ...
-    LinkedIn Gmail image link
+<a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="CodePen" /></a>&nbsp;
+
+<a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="CodePen" /></a>&nbsp;
+
+<a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="CodePen" /></a>&nbsp;
+
+## Social and Contact info:
+<a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="CodePen" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/iampaulidrobo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/iampaulidrobo/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/iampaulidrobo/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
+
+## LaNGUAges skill and tools
+
+
+## My repositroies:
+
+ROS2:
+<a href="https://github.com/iampaulidrobo/rviz_markers">Rviz_markers</a>
+
+https://github.com/iampaulidrobo/Make_Gazebo_plugin
+https://github.com/iampaulidrobo/Move_twist
+https://github.com/iampaulidrobo/ROS2_Send_Goal
+
+ROS1:
+https://github.com/iampaulidrobo/ROS1-Visualisation-on-RVIZ-and-simulation-in-Gazebo-for-mobile-robot
+
+
+
+
+C++:
+https://github.com/iampaulidrobo/Cpluscplus
+
 
 💼 Languages and Tools
 
-
+https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
 C++
 ROS
 openCV
 ⚡ Fun fact: Solving small infinities leads to the path of greater infinities.
 
 Repo brief:
-<div align="center"> Social and Contact Info. </div><br>
-  <p align="center">
-<a href="https://levy-omolo.herokuapp.com/"><img src="https://img.shields.io/badge/PORTFOLIO-fff?style=for-the-badge&logo=googlechrome&logoColor=blue" alt="Portfolio" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/levy-omolo/"><img src="https://img.shields.io/badge/linkedin-430098?style=for-the-badge&logo=linkedin&logoColor=white" alt="CodePen" /></a>&nbsp;
-<a href="mailto:cotechlevy@gmail.com"><img src="https://img.shields.io/badge/gmail-d62828?style=for-the-badge&logo=gmail&logoColor=white" alt="CodePen" /></a>&nbsp; <br>
-<a href="https://twitter.com/kaylor254"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://www.hackerrank.com/levy_omolo"><img src="![download](https://github.com/iampaulidrobo/iampaulidrobo/assets/22745024/5f8bbb49-f1b1-4a4e-bb8e-61b94093d0fc)" alt="Dev.to" /></a>&nbsp;
-<a href="https://www.researchgate.net/profile/Levy-Omolo-2"><img src="https://img.shields.io/badge/researchgate-4c334d?style=for-the-badge&logo=researchgate&logoColor=02c39a" alt="Dev.to" /></a>&nbsp;
-
-<a href="https://docs.google.com/document/d/15PXlkE-0aQZxIheTUT4qcEKU6Oy2F5wPQ3AtoF8yIOY/edit?usp=sharing"><img src="https://img.shields.io/badge/Résumé-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a" alt="Dev.to" /></a>&nbsp;
-</p><br>
 
 
 write a email to be send for the resume ,automation
@@ -52,8 +76,49 @@ Contribution and forks:
 Language and tools skillset:C++ ,OPENCV ROS<PYTHON
 
 
-<img alt="Matrix" src="https://img.shields.io/matrix/:roomAlias">
-<img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json">
-<img alt="Discord" src="https://img.shields.io/discord/:serverId">
-<img alt="Discourse Likes" src="https://img.shields.io/discourse/likes">
+
+
+<img alt="Static Badge" src="">
+
+
+<img alt="Static Badge" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+
+
+
+
+<img alt="Static Badge" src="">
+
+
+<img alt="Static Badge" src="">
+
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white">
+<img alt="Static Badge" src="http://unmaintained.tech/badge.svg">
+<img alt="Static Badge" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
+<img alt="Static Badge" src="https://img.shields.io/badge/Maintained%3F-no-red.svg">
+<img alt="Static Badge" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:http://monip.org">
+<img alt="Static Badge" src="https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg Website: http://cv.lbesson.qc.to/">
+
+<img alt="Static Badge" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+<img alt="Static Badge" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
+
+<img alt="Static Badge" src="https://img.shields.io/github/forks/{username}/{repo-name}.svg">
+<img alt="Static Badge" src="https://img.shields.io/github/stars/{username}/{repo-name}.svg">
+<img alt="Static Badge" src="https://img.shields.io/github/watchers/{username}/{repo-name}.svg">
+<img alt="Static Badge" src="https://img.shields.io/github/downloads/{username}/{repo-name}/total.svg">
+
+<img alt="Static Badge" src="https://badge-size.herokuapp.com/{username}/{repo}/{branch}/{filename}">
+
+
+
+
 
